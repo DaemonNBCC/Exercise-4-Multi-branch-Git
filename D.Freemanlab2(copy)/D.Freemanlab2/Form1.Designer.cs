@@ -40,8 +40,8 @@
             this.lblNumber2 = new System.Windows.Forms.Label();
             this.lblNumber1 = new System.Windows.Forms.Label();
             this.lblProduct2 = new System.Windows.Forms.Label();
-            this.lblSum2 = new System.Windows.Forms.Label();
-            this.lblProduct = new System.Windows.Forms.Label();
+            this.lblSubtract = new System.Windows.Forms.Label();
+            this.lblDivide = new System.Windows.Forms.Label();
             this.lblSum = new System.Windows.Forms.Label();
             this.btnReset = new System.Windows.Forms.Button();
             this.btnMath = new System.Windows.Forms.Button();
@@ -177,7 +177,7 @@
             this.lblProduct2.Name = "lblProduct2";
             this.lblProduct2.Size = new System.Drawing.Size(60, 16);
             this.lblProduct2.TabIndex = 7;
-            this.lblProduct2.Text = "Product:";
+            this.lblProduct2.Text = "Division:";
             // 
             // lblSum2
             // 
@@ -186,7 +186,7 @@
             this.lblSum2.Name = "lblSum2";
             this.lblSum2.Size = new System.Drawing.Size(39, 16);
             this.lblSum2.TabIndex = 6;
-            this.lblSum2.Text = "Sum:";
+            this.lblSum2.Text = "Subtraction:";
             // 
             // lblProduct
             // 
