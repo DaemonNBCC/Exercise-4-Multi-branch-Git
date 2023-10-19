@@ -256,7 +256,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Lab 2 by D.Freeman";
+            this.Text = "Lab 2.5 by D.Freeman";
             this.groupBox1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.picMe)).EndInit();
             this.groupBox2.ResumeLayout(false);
