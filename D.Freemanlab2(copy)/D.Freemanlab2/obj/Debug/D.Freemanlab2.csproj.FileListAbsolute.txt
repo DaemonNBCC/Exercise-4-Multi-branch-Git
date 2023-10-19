@@ -1,0 +1,10 @@
+C:\Users\daemo\OneDrive - NBCC\0 - Intro to programming\Projects\D.Freemanlab2\D.Freemanlab2\bin\Debug\D.Freemanlab2.exe.config
+C:\Users\daemo\OneDrive - NBCC\0 - Intro to programming\Projects\D.Freemanlab2\D.Freemanlab2\bin\Debug\D.Freemanlab2.exe
+C:\Users\daemo\OneDrive - NBCC\0 - Intro to programming\Projects\D.Freemanlab2\D.Freemanlab2\bin\Debug\D.Freemanlab2.pdb
+C:\Users\daemo\OneDrive - NBCC\0 - Intro to programming\Projects\D.Freemanlab2\D.Freemanlab2\obj\Debug\D.Freemanlab2.csproj.AssemblyReference.cache
+C:\Users\daemo\OneDrive - NBCC\0 - Intro to programming\Projects\D.Freemanlab2\D.Freemanlab2\obj\Debug\D.Freemanlab2.Form1.resources
+C:\Users\daemo\OneDrive - NBCC\0 - Intro to programming\Projects\D.Freemanlab2\D.Freemanlab2\obj\Debug\D.Freemanlab2.Properties.Resources.resources
+C:\Users\daemo\OneDrive - NBCC\0 - Intro to programming\Projects\D.Freemanlab2\D.Freemanlab2\obj\Debug\D.Freemanlab2.csproj.GenerateResource.cache
+C:\Users\daemo\OneDrive - NBCC\0 - Intro to programming\Projects\D.Freemanlab2\D.Freemanlab2\obj\Debug\D.Freemanlab2.csproj.CoreCompileInputs.cache
+C:\Users\daemo\OneDrive - NBCC\0 - Intro to programming\Projects\D.Freemanlab2\D.Freemanlab2\obj\Debug\D.Freemanlab2.exe
+C:\Users\daemo\OneDrive - NBCC\0 - Intro to programming\Projects\D.Freemanlab2\D.Freemanlab2\obj\Debug\D.Freemanlab2.pdb
