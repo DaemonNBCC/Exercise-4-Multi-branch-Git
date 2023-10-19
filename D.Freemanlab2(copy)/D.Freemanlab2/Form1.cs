@@ -79,8 +79,8 @@ namespace D.Freemanlab2
             int product;
             number1 = Convert.ToInt32(txtBox1.Text);
             number2 = Convert.ToInt32(txtBox2.Text);
-            sum = number1 + number2;
-            product = number1 * number2;
+            sum = number1 - number2;
+            product = number1 / number2;
             lblSum.Text = sum.ToString();
             lblProduct.Text = product.ToString();
             /*Calculates the sum of 2 numbers
